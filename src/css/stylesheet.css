@@ -1576,7 +1576,7 @@ body {
 	opacity: 1.0;
 	z-index: 9999;
 	width: 13%;
-	height: 20%;
+	height: 30%;
 }
 
 
@@ -1595,7 +1595,7 @@ body {
 	bottom: 0;
 	padding:10px 0px 10px 0px;
 }
-#turn_on,#picture_time,#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#dj_time,#story, #banner, #invite_friends, #self ,#f1,#f2,#f9,#f4,#f5,#f6,#f7,#f8,#f3,#f10,#f11,#f12, #cake_pink, #card, #candle{
+#turn_on,#picture_time,#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#dj_time,#story, #banner, #invite_friends, #self ,#f12,#f2,#f9,#f4,#f5,#f6,#f7,#f8,#f3,#f10,#f11,#f1, #cake_pink, #card, #candle{
 	display: none;
 }
 
