@@ -1571,7 +1571,7 @@ body {
 }
 
 .self-border{
-	position: relative;
+	position: fixed;
 	top:50%;
 	opacity: 1.0;
 	z-index: 9999;
@@ -2079,51 +2079,26 @@ font-family: 'Lobster', cursive;
 
 //Added positions
 #f1 {
-    position: fixed;
-    top: 20px;  /* Adjust as needed */
-    left: 10%;  /* Adjust as needed */
-    width: 13%;
-    height: 30%;
-    opacity: 1.0;
-    z-index: 9999;
+    top: 20px;
+    left: 10%;
 }
 
 #f2 {
-    position: fixed;
-    top: 100px; /* Adjust as needed */
-    left: 30%;  /* Adjust as needed */
-    width: 13%;
-    height: 30%;
-    opacity: 1.0;
-    z-index: 9999;
+    top: 100px;
+    left: 30%;
 }
 
 #f3 {
-    position: fixed;
-    top: 180px; /* Adjust as needed */
-    left: 50%;  /* Adjust as needed */
-    width: 13%;
-    height: 30%;
-    opacity: 1.0;
-    z-index: 9999;
+    top: 180px;
+    left: 50%;
 }
 
 #f4 {
-    position: fixed;
-    top: 260px; /* Adjust as needed */
-    left: 70%;  /* Adjust as needed */
-    width: 13%;
-    height: 30%;
-    opacity: 1.0;
-    z-index: 9999;
+    top: 260px;
+    left: 70%;
 }
 
 #f5 {
-    position: fixed;
-    top: 340px; /* Adjust as needed */
-    left: 90%;  /* Adjust as needed */
-    width: 13%;
-    height: 30%;
-    opacity: 1.0;
-    z-index: 9999;
+    top: 340px;
+    left: 90%;
 }
