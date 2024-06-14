@@ -1571,7 +1571,7 @@ body {
 }
 
 .self-border{
-	position: fixed;
+	position: relative;
 	top:50%;
 	opacity: 1.0;
 	z-index: 9999;
